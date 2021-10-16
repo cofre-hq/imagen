@@ -8,8 +8,4 @@ edition = "2018"
 rand = "0.7"
 rayon = "1.5"
 structopt = "0.3"
-
-[dependencies.image]
-version = "0.21"
-default-features = false
-features = ["jpeg"]
+image = "0.23"
